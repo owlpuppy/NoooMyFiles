@@ -1,0 +1,10 @@
+.env
+.python_version
+*.pyc
+*.pyo
+*.pyd
+
+__pycache__/
+storage/
+logs/
+notes/
